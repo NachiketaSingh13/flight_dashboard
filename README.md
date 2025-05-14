@@ -1,8 +1,6 @@
 # Flight Scheduling System — SQL Project
 
 This project is a complete SQL-based database system for managing flight schedules, bookings, routes, airports, aircrafts, and passengers.
-
-##  Files Included
 ---
 
 ##  Technologies Used
